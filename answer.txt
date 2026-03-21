@@ -1,0 +1,2 @@
+git config --global user.name "Ha Nguyen"
+git config --global user.email "email-github-cua-ban@gmail.com"
